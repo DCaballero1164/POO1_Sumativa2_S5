@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"cl.salmontt.model","l":"CentroCultivo"},{"p":"cl.salmontt.data","l":"GestorDatos"},{"p":"cl.salmontt.ui","l":"Main"}];updateSearchResults();

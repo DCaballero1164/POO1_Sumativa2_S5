@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"cl.salmontt.data"},{"l":"cl.salmontt.model"},{"l":"cl.salmontt.ui"}];updateSearchResults();
