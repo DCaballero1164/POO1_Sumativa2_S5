@@ -16,23 +16,23 @@ El sistema desarrollado corresponde a una aplicación académica en Java que mod
 
 Su propósito principal es ofrecer una estructura modular que permita:
 
-Representar entidades del dominio (centros de cultivo) mediante clases y objetos.
+- Representar entidades del dominio (centros de cultivo) mediante clases y objetos.
 
-Persistir datos en archivos CSV, garantizando la lectura y escritura de información de manera ordenada y reutilizable.
+- Persistir datos en archivos CSV, garantizando la lectura y escritura de información de manera ordenada y reutilizable.
 
-Procesar y analizar la producción (expresada en toneladas) utilizando Java Streams, lo que facilita operaciones de filtrado, búsqueda y generación de reportes con un enfoque moderno y eficiente sobre colecciones.
+- Procesar y analizar la producción (expresada en toneladas) utilizando Java Streams, lo que facilita operaciones de filtrado, búsqueda y generación de reportes con un enfoque moderno y eficiente sobre colecciones.
 
-Separar responsabilidades en paquetes bien definidos (ui, model, data), siguiendo la convención de dominio invertido (cl.salmontt), lo que asegura escalabilidad y claridad en el código.
+- Separar responsabilidades en paquetes bien definidos (ui, model, data), siguiendo la convención de dominio invertido (cl.salmontt), lo que asegura escalabilidad y claridad en el código.
 
 En términos funcionales, el sistema permite:
 
-Cargar datos desde un archivo CSV y transformarlos en objetos de dominio (CentroCultivo).
+- Cargar datos desde un archivo CSV y transformarlos en objetos de dominio (CentroCultivo).
 
-Filtrar y analizar la producción, destacando los centros con mayor rendimiento.
+- Filtrar y analizar la producción, destacando los centros con mayor rendimiento.
 
-Exportar resultados nuevamente a CSV, manteniendo la persistencia de la información.
+- Exportar resultados nuevamente a CSV, manteniendo la persistencia de la información.
 
-Mostrar la información procesada a través de una interfaz de usuario simple basada en consola.
+- Mostrar la información procesada a través de una interfaz de usuario simple basada en consola.
 
 🧱 Estructura general del proyecto
 
