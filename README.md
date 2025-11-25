@@ -67,4 +67,4 @@ Ejecutar el archivo Main.java desde el package ui/.
 
 Visualizar los resultados en la consola o interfaz gráfica.
 
-Repositorio GitHub: https://github.com/DCaballero1164/POO1_Sumativa1_S3 || Fecha de entrega: [24/11/2025]
+Repositorio GitHub: https://github.com/DCaballero1164/POO1_Sumativa2_S5 || Fecha de entrega: [24/11/2025]
