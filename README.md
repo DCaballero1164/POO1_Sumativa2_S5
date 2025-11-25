@@ -1,4 +1,4 @@
-# 🧠 Sumativa 1 - Semana 3 – Desarrollo Orientado a Objetos I
+# 🧠 Sumativa 2 - Semana 5 – Desarrollo Orientado a Objetos I
 
 👤 Autor del proyecto
 
